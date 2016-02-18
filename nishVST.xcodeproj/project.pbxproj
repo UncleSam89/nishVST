@@ -2057,6 +2057,7 @@
 				SKIP_INSTALL = NO;
 				STRIP_INSTALLED_PRODUCT = NO;
 				VALID_ARCHS = "i386 x86_64";
+				VST_FOLDER = "/Users/Sam/Documents/VST_Workspace/wdl-ol/IPlugExamples/nishVST";
 				WRAPPER_EXTENSION = "";
 			};
 			name = Debug;
@@ -2104,6 +2105,7 @@
 				SDKROOT = "$(BASE_SDK)";
 				SKIP_INSTALL = NO;
 				VALID_ARCHS = "i386 x86_64";
+				VST_FOLDER = "/Users/Sam/Documents/VST_Workspace/wdl-ol/IPlugExamples/nishVST";
 				WRAPPER_EXTENSION = "";
 			};
 			name = Release;
@@ -2689,6 +2691,7 @@
 				SDKROOT = "$(BASE_SDK)";
 				SKIP_INSTALL = NO;
 				VALID_ARCHS = "i386 x86_64";
+				VST_FOLDER = "/Users/Sam/Documents/VST_Workspace/wdl-ol/IPlugExamples/nishVST";
 				WRAPPER_EXTENSION = "";
 			};
 			name = Tracer;
